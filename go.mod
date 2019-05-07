@@ -1,4 +1,4 @@
-module pipeline
+module github.com/denislamard/pipeline
 
 go 1.12
 
